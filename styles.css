@@ -1,15 +1,33 @@
 body {
+
     background-color: rgb(255, 255, 165);
+
     margin: 0 20% 0 20%;
 }
 h1{
     display: flex;
     justify-content: center;
     align-items: center;
+
+    font-family: "Montserrat";
+    padding-left: 200px;
+    padding-right: 200px;
+
+    background-color: #62b6cb;
 }
 
+
+.montserrat-letra {
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+
+}
+
+
 .image{
-    border: 5px solid green;
+    border: 5px solid #bee9e8;
     border-radius: 10px;
     height: 400px;
     display: flex;
@@ -20,10 +38,14 @@ h1{
 
 .link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: white;
+    border: 1px solid #bee9e8;
+    background-color: #1b4965;
     padding: 5px;
     border-radius: 5px;
+
     box-shadow: 2px 3px #888888;
 }
+
+}
+
