@@ -1,6 +1,18 @@
 body {
     background-color: rgb(255, 255, 165);
+    font-family: "Montserrat";
+    padding-left: 200px;
+    padding-right: 200px;
 }
+
+
+.montserrat-letra {
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
 
 .image{
     border: 5px solid green;
