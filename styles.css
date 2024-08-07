@@ -1,8 +1,11 @@
 body {
+
     background-color: rgb(255, 255, 165);
     font-family: "Montserrat";
     padding-left: 200px;
     padding-right: 200px;
+
+    background-color: #62b6cb;
 }
 
 
@@ -15,17 +18,16 @@ body {
 
 
 .image{
-    border: 5px solid green;
+    border: 5px solid #bee9e8;
     border-radius: 10px;
     height: 400px;
 }
 
 .link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: white;
+    border: 1px solid #bee9e8;
+    background-color: #1b4965;
     padding: 5px;
     border-radius: 5px;
-    box-shadow: 2px 3px #888888;
 }
