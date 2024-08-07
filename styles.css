@@ -1,6 +1,14 @@
 body {
 
     background-color: rgb(255, 255, 165);
+
+    margin: 0 20% 0 20%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     font-family: "Montserrat";
     padding-left: 200px;
     padding-right: 200px;
@@ -14,6 +22,7 @@ body {
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
+
 }
 
 
@@ -21,6 +30,10 @@ body {
     border: 5px solid #bee9e8;
     border-radius: 10px;
     height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 .link-button {
@@ -30,4 +43,9 @@ body {
     background-color: #1b4965;
     padding: 5px;
     border-radius: 5px;
+
+    box-shadow: 2px 3px #888888;
 }
+
+}
+
